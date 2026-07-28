@@ -1,7 +1,4 @@
-<!--
-  Intentionally simple: one local image, one identity, one thought.
-  To refresh the cover, replace assets/eraser.jpg and keep the same filename.
--->
+
 
 <p align="center">
   <img
