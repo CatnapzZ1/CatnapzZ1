@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  <em>All roads lead to there.</em>
+  <em>也许我们永远都在寻找着“不明白的东西”的答案.</em>
 </p>
