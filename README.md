@@ -53,10 +53,3 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/CatnapzZ1/CatnapzZ1/output/snake.svg">
   </picture>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/catnap-dark.svg">
-    <img alt="A sleeping pixel cat" src="./assets/catnap.svg">
-  </picture>
-</p>
