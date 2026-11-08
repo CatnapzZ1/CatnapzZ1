@@ -21,8 +21,8 @@
 <p align="center">
   <img
     src="./assets/cover.svg"
-    width="460"
-    alt="Illustration of a quiet moment beside an open notebook, with pixel petals drifting down"
+    width="760"
+    alt="Illustration of a girl leaning on a railing under a blue sky, with sakura petals drifting down"
   >
 </p>
 
