@@ -29,22 +29,23 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=CatnapzZ1&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=88d9ec&icon_color=c7acbb&text_color=c9d1d9">
-    <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=CatnapzZ1&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=2f64a6&icon_color=c7acbb&text_color=57606a">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=CatnapzZ1&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=88d9ec&text_color=c9d1d9">
-    <img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CatnapzZ1&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=2f64a6&text_color=57606a">
-  </picture>
+  <img src="./assets/sky.svg" alt="Pixel clouds and a paper plane drifting through falling sakura petals">
 </p>
 
 <br clear="all">
 
 <br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=CatnapzZ1&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=88d9ec&icon_color=c7acbb&text_color=c9d1d9">
+    <img align="top" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=CatnapzZ1&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=2f64a6&icon_color=c7acbb&text_color=57606a">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=CatnapzZ1&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=88d9ec&text_color=c9d1d9">
+    <img align="top" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CatnapzZ1&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=2f64a6&text_color=57606a">
+  </picture>
+</p>
 
 <p align="center">
   <picture>
