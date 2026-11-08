@@ -21,18 +21,20 @@
 </p>
 
 <p align="center">
+  <img src="./assets/sky.svg" alt="Pixel clouds and a paper plane drifting through falling sakura petals">
+</p>
+
+<br clear="all">
+
+<br>
+
+<p align="center">
   <img src="./assets/divider.svg" alt="">
 </p>
 
 <p align="center">
   <em>也许我们永远都在寻找着“不明白的东西”的答案.</em>
 </p>
-
-<p align="center">
-  <img src="./assets/sky.svg" alt="Pixel clouds and a paper plane drifting through falling sakura petals">
-</p>
-
-<br clear="all">
 
 <br>
 
