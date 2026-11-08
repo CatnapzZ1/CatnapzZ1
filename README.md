@@ -20,9 +20,9 @@
 
 <p align="center">
   <img
-    src="./assets/eraser.jpg"
-    width="300"
-    alt="Illustration of a quiet moment beside an open notebook"
+    src="./assets/cover.svg"
+    width="460"
+    alt="Illustration of a quiet moment beside an open notebook, with pixel petals drifting down"
   >
 </p>
 
