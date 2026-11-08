@@ -1,11 +1,11 @@
-<img align="right" src="./assets/cover.svg" width="420" alt="Illustration of a girl leaning on a railing under a blue sky, framed by sakura branches with petals drifting down and a pixel cat napping in the corner">
+<img align="right" src="./assets/cover.svg" width="420" alt="Illustration of a girl leaning on a railing under a blue sky, framed by sakura branches with petals drifting down">
 
 <br>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/title-dark.svg">
-    <img alt="Catnap_zZ" src="./assets/title.svg">
+    <img alt="Catnap_zZ, with a sleeping pixel cat" src="./assets/title.svg">
   </picture>
 </p>
 
