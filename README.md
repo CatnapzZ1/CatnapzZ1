@@ -26,8 +26,6 @@
 
 <br clear="all">
 
-<br>
-
 <p align="center">
   <img src="./assets/interlude.svg" alt="">
 </p>
