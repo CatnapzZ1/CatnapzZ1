@@ -1,9 +1,4 @@
-<img
-  align="right"
-  src="./assets/cover.svg"
-  width="420"
-  alt="Illustration of a girl leaning on a railing under a blue sky, framed by sakura branches with petals drifting down and a pixel cat napping in the corner"
->
+<img align="right" src="./assets/cover.svg" width="420" alt="Illustration of a girl leaning on a railing under a blue sky, framed by sakura branches with petals drifting down and a pixel cat napping in the corner">
 
 <br>
 
