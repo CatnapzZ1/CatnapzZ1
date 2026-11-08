@@ -33,7 +33,9 @@
 </p>
 
 <p align="center">
+  <img src="./assets/notes-left.svg" alt="" align="middle">
   <em>也许我们永远都在寻找着“不明白的东西”的答案.</em>
+  <img src="./assets/notes-right.svg" alt="" align="middle">
 </p>
 
 <br>
